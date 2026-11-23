@@ -1,0 +1,20 @@
+# Tested with these versions (macOS, CPU). Create with:
+#   conda env create -f environment.yml && conda activate pdt-beam-al
+name: pdt-beam-al
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy=1.26.4
+  - scipy=1.12.0
+  - pandas=2.3.0
+  - matplotlib=3.10.3
+  - seaborn=0.13.2
+  - scikit-learn=1.2.1
+  - tqdm
+  - pip
+  - pip:
+      - torch==2.2.2
+      - gpytorch==1.14
+      - streamlit==1.39.0       # web app (app/)
+      - plotly==5.24.1

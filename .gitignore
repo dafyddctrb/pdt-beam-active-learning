@@ -1,0 +1,22 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+.idea/
+.vscode/
+.venv/
+venv/
+
+# experiment outputs
+results/
+al_comparison_results/
+app_runs/
+plots/
+*.log
+
+# local material, never published
+info_source/
+Claude outputs/
+
+# personal Claude Code notes
+CLAUDE.local.md

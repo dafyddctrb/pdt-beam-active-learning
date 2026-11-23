@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "pdt-beam-active-learning"
+type: software
+license: MIT
+authors:
+  - family-names: Cotoarbă
+    given-names: Dafydd
+    affiliation: "TUM Georg Nemetschek Institute - Artificial Intelligence for the Built World, Technical University of Munich; Engineering Risk Analysis Group, TUM School of Engineering and Design, Technical University of Munich"
+    orcid: "https://orcid.org/0009-0005-6915-0319"
+repository-code: "https://github.com/dafyddctrb/pdt-beam-active-learning"
+preferred-citation:
+  type: article
+  title: "Bayesian Data Integration and Model Updating in Probabilistic Digital Twins"
+  authors:
+    - family-names: Cotoarbă
+      given-names: Dafydd
+    - family-names: Mavritsakis
+      given-names: Antonis
+    - family-names: Schweckendiek
+      given-names: Timo
+    - family-names: Smith
+      given-names: Ian F. C.
+    - family-names: Straub
+      given-names: Daniel
+  journal: "TODO"   # manuscript in preparation; add journal, year and doi once known
+  # year: 2026
+  # doi: "TODO"
